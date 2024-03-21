@@ -6,6 +6,7 @@
 ## 기술 스택
  - java, spring, linux, VS Code, IntelliJ, git/github, obsidian
 
+<<<<<<< HEAD
 ## 백엔드 개발자를 꿈꾸게 된 계기
  - 어릴적부터 저는 게임을 좋아했습니다. 
  
@@ -20,6 +21,9 @@
  
  
 
+=======
+## 깃허브에서 파일 수정
+>>>>>>> bfb264439492642aadc4cd8a01df70354ac8eddc
 
  
 
