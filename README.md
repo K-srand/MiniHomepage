@@ -1,1 +1,11 @@
-# 수지의 미니 홈페이지
+# 소개글
+
+## 자기 소개
+ - 백엔드 개발자를 준비하고 있습니다.
+
+## 기술 스택
+ - java, spring, linux, VS Code, IntelliJ, git/github, obsidian
+
+
+
+
