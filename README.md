@@ -29,6 +29,10 @@ style.md 파일 추가
 
 ## 구매 추가
 
+
 ## contactus 추가
+
+## footer 추가
+
 
 
